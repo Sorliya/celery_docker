@@ -1,0 +1,4 @@
+flask
+celery
+redis
+flask-crontab
